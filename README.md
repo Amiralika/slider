@@ -1,7 +1,6 @@
-[
-  {
-    "عکس": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/007.jpg",
-    "متن1": "تبلیغ",
-    "متن2": "TEST"
-  }
-]
+{
+  "تبلیغ": "فعال",
+  "عکس": "https://s4.uupload.ir/files/img_20210807_111117_738_6ctg.jpg",
+  "لینک": "https://sketchupdate.tk",
+  "متن": "Download SketchUpdate \u0026 Control Your Sketchware Projects In Minutes..."
+}
