@@ -1,7 +1,9 @@
-{
-  "f": "فع ال",
-  "عکس": "https://s4.uupload.ir/files/img_20210807_111117_738_6ctg.jpg",
-  "لینک": "https://sketchupdate.tk",
-  "متن": "تبلیغ",
-  "شرح": "بدون ففف شرح"
-}
+[
+  {
+    "f": "فعال",
+    "link": "http://freefire_plus.renderforestsites.com/",
+    "sharh": "Test",
+    "aks": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۲۲۰_ippl.jpg",
+    "text": "تبلیغ"
+  }
+]
