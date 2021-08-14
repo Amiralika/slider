@@ -1,9 +1,9 @@
-[
-  {
-    "f": "فعال",
-    "link": "http://freefire_plus.renderforestsites.com/",
-    "sharh": "Test",
-    "aks": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۲۲۰_ippl.jpg",
-    "text": "تبلیغ"
-  }
-]
+{
+  "fa": "فعال",
+  "تغیرات": "اضافه شد",
+  "کنسل": "آپدیت اجباری",
+  "اپدیت": "Ali",
+  "تغیرات1": "انجام شد 2",
+  "پیام": "اپدیت اجباری ",
+  "لینک": "http://freefire_plus.renderforestsites.com/"
+}
